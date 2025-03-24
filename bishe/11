@@ -1,0 +1,4 @@
+import numpy as np
+import pandas as pd
+pd.read/Users/wenzengpei/demo/bishe/font_images.npy
+print(font_images.npy)
